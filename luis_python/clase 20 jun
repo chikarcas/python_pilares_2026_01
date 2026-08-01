@@ -1,0 +1,42 @@
+no iniciar variables con numeros
+algunos cafaceres especiales
+Palbas reservadas
+
+Tipos de variable
+    Se asignan autimatic
+        Int
+        Float
+        Cadenas str
+        booleanos bool
+        
+ Operaciones basicas de python
+    SUM <int / float / str (Concatenacion)>
+    res <int / float>
+    div  num
+    exp ** num
+    flor div // (Division de enero mas hacia abajo)
+    Module % (restante de division)
+    
+ operadores de relacion de recurrencia
+    operadores de asignacion
+        x = a
+        x = x + a
+    Operador de comparacion
+        igual x == y
+        menos ! = Y
+        mayor que >
+        menor que <
+        mayor o igual que 
+        menor o igualque
+    Operadores tecnicos
+        AND
+        OR
+        NOT Boolean invierte la proposicion logica
+    Funcion type
+        devuelve la clase de objeto
+        
+ Gu!tJ4b!
+
+    
+Gu!tJ4b!
+ Gu!tJ4b!    
